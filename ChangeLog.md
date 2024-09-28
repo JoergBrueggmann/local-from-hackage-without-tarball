@@ -1,3 +1,3 @@
-# Changelog for Test7
+# Changelog for local-from-hackage-without-tarball
 
 ## Unreleased changes

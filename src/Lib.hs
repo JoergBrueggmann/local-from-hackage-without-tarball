@@ -1,6 +1,10 @@
-main :: IO ()
-main = putStrLn "Test suite not yet implemented"
-Random as Rnd
 
-someFunc :: IO ()
-someFunc = putStrLn Rnd.sTest
+module Lib
+    (
+        main
+    ) where
+
+import qualified System.Random as Rnd
+
+main :: IO ()
+main = putStrLn Rnd.sTest

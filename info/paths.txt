@@ -1,0 +1,23 @@
+stack-root: C:\sr
+global-config: C:\sr\config.yaml
+programs: C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows
+local-bin: C:\Users\Joerg\AppData\Roaming\local\bin
+project-root: C:\03GitHubFlds\local-from-hackage-without-tarball
+config-location: C:\03GitHubFlds\local-from-hackage-without-tarball\stack.yaml
+bin-path: .;C:\sr\snapshots\17283fd8\bin;C:\sr\compiler-tools\x86_64-windows\ghc-8.10.7\bin;C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\ghc-8.10.7\bin;C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\ghc-8.10.7\mingw\bin;C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\msys2-20210604\mingw64\bin;C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\msys2-20210604\usr\bin;C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\msys2-20210604\usr\local\bin;C:\Program Files\Git\cmd;C:\ghcup\bin;C:\haskellstack_new;C:\ghcup\msys64\usr\local\bin;C:\ghcup\msys64\usr\bin;C:\ghcup\msys64\usr\bin;C:\ghcup\msys64\opt\bin;C:\Windows\System32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\ghcup\msys64\usr\bin\site_perl;C:\ghcup\msys64\usr\bin\vendor_perl;C:\ghcup\msys64\usr\bin\core_perl
+compiler-exe: C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\ghc-8.10.7\bin\ghc-8.10.7.exe
+compiler-bin: C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\ghc-8.10.7\bin
+compiler-tools-bin: C:\sr\compiler-tools\x86_64-windows\ghc-8.10.7\bin
+extra-include-dirs: C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\msys2-20210604\mingw64\include
+extra-library-dirs: C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\msys2-20210604\mingw64\lib, C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\msys2-20210604\mingw64\bin
+snapshot-pkg-db: C:\sr\snapshots\17283fd8\pkgdb
+local-pkg-db: C:\03GitHubFlds\local-from-hackage-without-tarball\.stack-work\install\f1fb6c00\pkgdb
+global-pkg-db: C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\ghc-8.10.7\lib\package.conf.d
+ghc-package-path: C:\03GitHubFlds\local-from-hackage-without-tarball\.stack-work\install\f1fb6c00\pkgdb;C:\sr\snapshots\17283fd8\pkgdb;C:\Users\Joerg\AppData\Local\Programs\stack\x86_64-windows\ghc-8.10.7\lib\package.conf.d
+snapshot-install-root: C:\sr\snapshots\17283fd8
+local-install-root: C:\03GitHubFlds\local-from-hackage-without-tarball\.stack-work\install\f1fb6c00
+dist-dir: .stack-work\dist\ed8db9df
+local-hpc-root: C:\03GitHubFlds\local-from-hackage-without-tarball\.stack-work\install\f1fb6c00\hpc
+snapshot-doc-root: C:\sr\snapshots\d91b91eb\doc
+local-doc-root: C:\03GitHubFlds\local-from-hackage-without-tarball\.stack-work\install\743183f5\doc
+local-hoogle-root: C:\03GitHubFlds\local-from-hackage-without-tarball\.stack-work\hoogle\743183f5
